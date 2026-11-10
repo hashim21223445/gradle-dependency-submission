@@ -3,7 +3,7 @@ plugins {
 }
 
 dependencies {
-    api("org.json:json:20231013")
+    api("org.json:json:20260719")
 }
 
 java {
